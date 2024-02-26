@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4IXbnx+setk7CwAcOOir25LbDk87ErmXY7J5soGvX54=",
+  "Hash": "sZapP8WBFJRV2KWLOArbIdohuKvJ2fERyMx/e9wfarc=",
   "Source": "ReadersDelight",
   "BasePath": "_content/ReadersDelight",
   "Mode": "Default",
@@ -1155,6 +1155,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\JohnDoe\\source\\repos\\Readers-Delight\\ReadersDelight\\wwwroot\\Library.jpg",
+      "SourceId": "ReadersDelight",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JohnDoe\\source\\repos\\Readers-Delight\\ReadersDelight\\wwwroot\\",
+      "BasePath": "_content/ReadersDelight",
+      "RelativePath": "Library.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Library.jpg"
     }
   ]
 }

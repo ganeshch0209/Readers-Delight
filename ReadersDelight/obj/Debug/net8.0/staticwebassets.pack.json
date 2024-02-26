@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\JohnDoe\\source\\repos\\Readers-Delight\\ReadersDelight\\wwwroot\\Library.jpg",
+      "PackagePath": "staticwebassets\\Library.jpg"
+    },
+    {
       "Id": "C:\\Users\\JohnDoe\\source\\repos\\Readers-Delight\\ReadersDelight\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
